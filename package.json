@@ -1,0 +1,27 @@
+{
+  "name": "desktop-portfolio",
+  "version": "1.0.0",
+  "description": "This is a portfolio webpage designe choosing from the figma templates, where i used media queries to make a mobile webpage rise to desktop page.\r ## Built With\r * HTML\r * CSS\r * Git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amanulla/Desktop-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amanulla/Desktop-portfolio/issues"
+  },
+  "homepage": "https://github.com/Amanulla/Desktop-portfolio#readme",
+  "devDependencies": {
+    "hint": "^6.2.0",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
